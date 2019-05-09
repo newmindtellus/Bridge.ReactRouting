@@ -76,7 +76,7 @@
       <HintPath>..\packages\Bridge.Html5.17.7.0\lib\net40\Bridge.Html5.dll</HintPath>
     </Reference>
     <Reference Include="Bridge.React, Version=5.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Bridge.React.5.2.0\lib\net40\Bridge.React.dll</HintPath>
+      <HintPath>..\packages\Bridge.React.5.2.1\lib\net40\Bridge.React.dll</HintPath>
     </Reference>
     <Reference Include="ProductiveRage.Immutable, Version=4.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\ProductiveRage.Immutable.4.2.0\lib\net40\ProductiveRage.Immutable.dll</HintPath>
@@ -86,7 +86,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Analyzer Include="..\packages\Bridge.React.5.2.0\analyzers\dotnet\cs\Bridge.React.Analyser.dll" />
+    <Analyzer Include="..\packages\Bridge.React.5.2.1\analyzers\dotnet\cs\Bridge.React.Analyser.dll" />
     <Analyzer Include="..\packages\ProductiveRage.Immutable.4.2.0\analyzers\dotnet\cs\ProductiveRage.Immutable.Analyser.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
