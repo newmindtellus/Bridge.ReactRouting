@@ -16,9 +16,9 @@
     <dependencies>
       <dependency id="Bridge.Core" version="17.7.0" />
       <dependency id="Bridge.Html5" version="17.7.0" />
-      <dependency id="Bridge.React" version="5.2.0" />
-      <dependency id="ProductiveRage.Immutable" version="4.2.0" />
-      <dependency id="ProductiveRage.Immutable.Extensions" version="5.2.0" />
+      <dependency id="Bridge.React" version="5.2.1" />
+      <dependency id="Bridge.Immutable" version="4.2.1" />
+      <dependency id="Bridge.Immutable.Extensions" version="5.2.1" />
     </dependencies>
   </metadata>
   <files>
