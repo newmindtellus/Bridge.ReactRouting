@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>ProductiveRage.ReactRouting</id>
-    <title>ProductiveRage.ReactRouting</title>
-    <version>7.1.1</version>
+    <id>Bridge.ReactRouting</id>
+    <title>Bridge.ReactRouting</title>
+    <version>7.1.2</version>
     <authors>ProductiveRage</authors>
     <owners>ProductiveRage</owners>
     <licenseUrl>https://github.com/NewmindTellus/Bridge.ReactRouting/blob/master/LICENSE</licenseUrl>
